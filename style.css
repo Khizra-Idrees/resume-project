@@ -1,0 +1,262 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #A76850;
+}
+
+.resume{
+    width: 800px;
+    background-color: #fff;
+    margin: 25px auto;
+    display: flex;
+}
+
+.left{
+    background-color: #66545e;
+    width: 250px;
+    padding: 0 20px;
+    margin-left: 25px;
+    z-index: 9999;
+}
+
+
+.right{
+    width: 550px;
+}
+
+.left .img-holder{
+    text-align: center;
+    padding: 20px 0;
+}
+
+.left .img-holder img{
+    width: 200px;
+    border-radius: 100px;
+}
+
+.pb{
+    padding-bottom: 20px;
+}
+
+.title{
+    font-size: 25px;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+    text-align: center;
+    position: relative;
+}
+
+.left .icon{
+    font-size: 18px;
+    text-align: right;
+}
+
+.left .text{
+    text-transform: uppercase;
+}
+
+.contact .li-wrap{
+    display: flex;
+    justify-content: space-between;
+}
+
+.li-style{
+    list-style: none;
+}
+
+.left .sk-icon{
+    font-size: 22px;
+    text-align: right;
+}
+
+.skills .li-wrap{
+    display: flex;
+    justify-content: space-between;
+}
+
+.vl{
+    border-right: 1px solid;
+    height: 20px;
+}
+
+.sub-heading{
+    font-weight: 800;
+    padding-bottom: 11px;
+}
+
+.header{
+    background-color: #A39193;
+    padding: 15px 30px;
+    margin-top: 29px;
+    margin-right: -1px;
+    margin-left: -268px;
+    text-align: center;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    padding-left: 266px;
+}
+
+.header .name{
+    font-size: 50px;
+    font-weight: 700;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.header .role{
+    font-size: 28px;
+    font-weight: 300;
+    text-align: center;
+    padding-right: 269px;
+}
+
+.right-inner h4{
+    margin-top: 6px;
+    text-align: center;
+    padding-top: 9px;
+    font-size: 23px;
+    padding-bottom: 6px;
+    border: 1px solid;
+    margin-left: 97px;
+    margin-right: 118px;
+    border-block-color: #Aa6573;
+}
+
+.right-inner p{
+    padding-right: 15px;
+    font-size: 21px;
+    padding-left: 15px;
+    padding-top: 12px;
+}
+
+.right-inner span i{
+    color: #Aa6573;
+    font-size: 21px;
+    padding-left: 15px;
+    font-weight: 600;
+}
+
+.right-inner .flex{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+}
+
+.right-inner ul li{
+    padding-left: 20px;
+    padding-right: 27px;
+    padding-top: 15px;
+    font-size: 17px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .resume{
+    background-color: #fff;
+    width: 800px;
+    margin: 25px auto;
+    display: flex;
+}
+
+.left{
+    background-color: #66545e;
+    width: 221px;
+    margin-left: 30px;
+    padding-left: 9px;
+    padding-right: 22px;
+    padding-top: 27px;
+    display: flex;
+}
+
+
+
+.left .img-holder img{
+    margin: 5px;
+    border-radius: 95px;
+    padding-left: 6px;
+    width: 154px;
+    height: 159px;
+}
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+section{
+    width: 50%;
+    border: 1px solid;
+    margin: auto;
+    background-color: white;
+}
+
+.name{
+    background-color: #A39193;
+    text-align: center;
+}
+
+.name h2{
+    font-family: math;
+    font-size: 32px;
+}
+
+.name p{margin-top: -27px;
+    margin-right: 37px;
+    font-size: 21px;
+    font-family: serif;
+}
+
+.img{
+    background-color: #66545e;
+    width: 25%;
+} */
